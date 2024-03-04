@@ -6,9 +6,9 @@ module.exports = {
     return models.users
     .insertMany ([{
       _id : "65e040af0dfce51b8598a818",
-        name : "mark",
-        email : 'mark@gmail.com',
-        password : "$2a$12$qLEbL4JLGOdsn6U5kXYOfO9te4gmt2YTz/zIrdzlzLpMMNKFCL176",
+        name : "ashik",
+        email : 'ashik@gmail.com',
+        password : "$2a$12$H25VgDM0ImZX/PCAsWCDLehvv4gQFGSsajooiIWEMcxV1qXl/uVOm",
 
     }
   ])
